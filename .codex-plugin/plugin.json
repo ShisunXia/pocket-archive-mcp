@@ -1,0 +1,12 @@
+{
+  "name": "pocket-archive",
+  "version": "1.0.0",
+  "description": "Search and manage your Pocket Archive documents, Attention items and Collections.",
+  "homepage": "https://www.pocketarchive.io",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Pocket Archive",
+    "shortDescription": "Search, upload and organize your archive"
+  }
+}

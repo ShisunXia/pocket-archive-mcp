@@ -1,0 +1,13 @@
+interface:
+  display_name: "Pocket Archive"
+  short_description: "Search, upload and organize your private archive"
+  default_prompt: "Use $pocket-archive to find and organize documents in my archive."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "pocket-archive"
+      description: "Pocket Archive documents, Attention and Collections"
+      transport: "streamable_http"
+      url: "https://api.pocketarchive.io/mcp"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pocket-archive": {
+      "type": "http",
+      "url": "https://api.pocketarchive.io/mcp"
+    }
+  }
+}

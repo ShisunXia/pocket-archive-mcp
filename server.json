@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.pocketarchive/pocket-archive",
+  "title": "Pocket Archive",
+  "description": "Search, read, upload and organize your private documents: receipts, contracts, tax records.",
+  "websiteUrl": "https://www.pocketarchive.io/ai-agents",
+  "repository": {
+    "url": "https://github.com/ShisunXia/pocket-archive-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://www.pocketarchive.io/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": ["180x180"]
+    }
+  ],
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.pocketarchive.io/mcp"
+    }
+  ]
+}
