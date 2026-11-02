@@ -200,3 +200,7 @@ Authentication follows the [MCP authorization specification](https://modelcontex
 - Help and contact: [pocketarchive.io/contact](https://www.pocketarchive.io/contact)
 - Bugs or questions about this repository: [open an issue](https://github.com/ShisunXia/pocket-archive-mcp/issues)
 - [Terms](https://www.pocketarchive.io/terms) · [Privacy](https://www.pocketarchive.io/privacy)
+
+## License
+
+The files in this repository are released under the [MIT License](LICENSE). The Pocket Archive name and logo are not covered by this license. Use of the Pocket Archive service is governed by its [Terms](https://www.pocketarchive.io/terms).
